@@ -41,5 +41,5 @@ namespace CredentialsFactory
 
             return result;
         }
-    }
+    }//end class
 }
