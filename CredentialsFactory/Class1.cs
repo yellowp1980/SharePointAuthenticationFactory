@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace CredentialsFactory
 {
+    /// <summary>
+    /// returns credentials for on-perm or online
+    /// </summary>
     public enum SharePointAuthentication
     {
         SharePointOnline,
